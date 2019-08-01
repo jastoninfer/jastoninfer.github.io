@@ -25,7 +25,7 @@
 
 ## 原文件位置：
 
-[2019高招统计-0725.pdf(30MB)](http://jastoninfer.github.io/jastoninfer.github.io/0729/2019高招统计0729.pdf).
+[2019高招统计-0729.pdf(30MB)](http://jastoninfer.github.io/jastoninfer.github.io/0729/2019高招统计0729.pdf).
 
-[2019高招统计-0725-压缩版.pdf(3MB)](http://jastoninfer.github.io/jastoninfer.github.io/0729/2019高招统计0729_压缩版.pdf).
+[2019高招统计-0729-压缩版.pdf(3MB)](http://jastoninfer.github.io/jastoninfer.github.io/0729/2019高招统计0729_压缩版.pdf).
 
